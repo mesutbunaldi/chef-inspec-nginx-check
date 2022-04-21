@@ -1,0 +1,1 @@
+# chef-nspec-nginx-check
