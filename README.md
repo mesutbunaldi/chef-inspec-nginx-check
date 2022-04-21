@@ -1,3 +1,2 @@
 # Example InSpec Profile
-
-This example shows the implementation of an InSpec profile.
+inspec exec chef-nspec-nginx-check -t ssh://10x.x.x --user <uname>
